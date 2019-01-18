@@ -1,0 +1,10 @@
+body {background-color: lightblue;}
+h1 {color: navy;margin-left: 20px;}
+p {color:navy; float:left; font-size: 130%}
+a {color:navy; font-size: 130%}
+.img1 {float: right;margin-left:15px;}
+.img2 {float: left;margin-right:15px;}
+#rcorners1 {border-radius: 30px;background: rgb(236, 129, 187);padding: 20px; width: 500px;height: 500px;}
+h1.dotted {border-style: dotted;}  
+.container {color: white;font-family: 'Times New Roman', Times, serif;font-size: 150%}
+.centered {position: absolute;top: 100%;left: 20%;}
